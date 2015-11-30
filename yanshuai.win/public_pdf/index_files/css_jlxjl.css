@@ -1,0 +1,36 @@
+@charset "utf-8";
+.xjlright {
+	POSITION: fixed; TOP:90px; RIGHT: 0; _position: absolute
+}
+.xjlk {width:206px; height:100%;}
+.xjlkHid {width:32px; height:100%; display:none;}
+.xjlkl {width:32px; height:41px; float:left; background-image:url(../../images/version6/index_jlyl_jlxjl_r2_c2.png);}
+.xjlkl1 {width:32px; height:41px; float:left; background-image:url(../../images/version6/index_jlyl_jlxjl_r21_c2.png);}
+.xjlkr {width:174px; height:100%; float:right;}
+.xjltit {width:174px; height:32px; text-align:center; font-size:16px; color:#FFF; font-weight:bold; background-image:url(../../images/version6/index_jlyl_jlxjl1_r2_c10.jpg); line-height:32px;}
+.guding {width:25px; height:25px; margin:3px 0 0 3px; float:left;}
+.xjlview {width:170px; height:56px; background-color:#83BDE5; padding-left:4px;overflow-y:auto;overflow-x:hidden;}
+.xjlbot {width:174px; height:8px; background-image:url(../../images/version6/index_jlyl_jlxjl1_r8_c5.jpg); text-align:left;}
+.xjlzk {width:170px; height:28px; line-height:28px; color:#707070; font-size:14px; background-image:url(../../images/version6/index_jlyl_jlxjl1_r5_c8.jpg);}
+.xjlzk a {width:170px; height:28px; float:left; overflow:hidden; margin:0;}
+.xjlzk a:link { color:#666; text-decoration:none;}
+.xjlzk a:visited { color:#666; text-decoration:none;}
+.xjlzk a:hover { background-color:#dfdfdf; color:#666; text-decoration:none;}
+.xjlzk span { margin:5px 15px 5px 15px; float:left;}
+.xjl_icon1 {background:url(../../images/version6/icon_jlxjl.png) 0 0; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon2 {background:url(../../images/version6/icon_jlxjl.png) 0 -22px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon3 {background:url(../../images/version6/icon_jlxjl.png) 0 -42px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon4 {background:url(../../images/version6/icon_jlxjl.png) 0 -62px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon5 {background:url(../../images/version6/icon_jlxjl.png) 0 -85px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon6 {background:url(../../images/version6/icon_jlxjl.png) 0 -105px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon7 {background:url(../../images/version6/icon_jlxjl.png) 0 -125px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon8 {background:url(../../images/version6/icon_jlxjl.png) 0 -146px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon9 {background:url(../../images/version6/icon_jlxjl.png) 0 -166px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon10 {background:url(../../images/version6/icon_jlxjl.png) 0 -188px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon11 {background:url(../../images/version6/icon_jlxjl.png) 0 -210px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon12 {background:url(../../images/version6/icon_jlxjl.png) 0 -230px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon13 {background:url(../../images/version6/icon_jlxjl.png) 0 -251px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon14 {background:url(../../images/version6/icon_jlxjl.png) 0 -271px; cursor:pointer; width:18px; height:18px; font-size:0;}
+
+/*简历文字加粗去掉*/
+.font_normal {font-weight:normal;}
