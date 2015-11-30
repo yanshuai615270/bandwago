@@ -17,7 +17,7 @@
 .xjlzk a:visited { color:#666; text-decoration:none;}
 .xjlzk a:hover { background-color:#dfdfdf; color:#666; text-decoration:none;}
 .xjlzk span { margin:5px 15px 5px 15px; float:left;}
-.xjl_icon1 {background:url(../../images/version6/icon_jlxjl.png) 0 0; cursor:pointer; width:18px; height:18px; font-size:0;}
+/*.xjl_icon1 {background:url(../../images/version6/icon_jlxjl.png) 0 0; cursor:pointer; width:18px; height:18px; font-size:0;}
 .xjl_icon2 {background:url(../../images/version6/icon_jlxjl.png) 0 -22px; cursor:pointer; width:18px; height:18px; font-size:0;}
 .xjl_icon3 {background:url(../../images/version6/icon_jlxjl.png) 0 -42px; cursor:pointer; width:18px; height:18px; font-size:0;}
 .xjl_icon4 {background:url(../../images/version6/icon_jlxjl.png) 0 -62px; cursor:pointer; width:18px; height:18px; font-size:0;}
@@ -30,7 +30,7 @@
 .xjl_icon11 {background:url(../../images/version6/icon_jlxjl.png) 0 -210px; cursor:pointer; width:18px; height:18px; font-size:0;}
 .xjl_icon12 {background:url(../../images/version6/icon_jlxjl.png) 0 -230px; cursor:pointer; width:18px; height:18px; font-size:0;}
 .xjl_icon13 {background:url(../../images/version6/icon_jlxjl.png) 0 -251px; cursor:pointer; width:18px; height:18px; font-size:0;}
-.xjl_icon14 {background:url(../../images/version6/icon_jlxjl.png) 0 -271px; cursor:pointer; width:18px; height:18px; font-size:0;}
+.xjl_icon14 {background:url(../../images/version6/icon_jlxjl.png) 0 -271px; cursor:pointer; width:18px; height:18px; font-size:0;}*/
 
 /*简历文字加粗去掉*/
 .font_normal {font-weight:normal;}
